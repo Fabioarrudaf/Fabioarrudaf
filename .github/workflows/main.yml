@@ -15,7 +15,7 @@ jobs:
 
       - name: Configurar Git
         run: |
-          git config --global user.name "Fábio Arruda"
+          git config --global user.name "Fabioarrudaf"
           git config --global user.email "arrudafreitas45@gmail.com"
 
       - name: Criar arquivo com data
