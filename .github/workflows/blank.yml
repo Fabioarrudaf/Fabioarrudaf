@@ -29,7 +29,7 @@ jobs:
           # Cor da cobra
           color_snake: '#00FF00'
           # Cores dos quadradinhos (usando a mesma cor escura em todos os níveis)
-          color_dots: '#161b22,#161b22,#161b22,#161b22,#161b22'
+          color_dots: '#161b22'
           # Fundo no estilo escuro do GitHub
           background: '#0d1117'
         env:
